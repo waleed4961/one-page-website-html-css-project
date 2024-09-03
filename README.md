@@ -12,7 +12,7 @@ Like my works and want to support me?
 
 ---
 
-## AnOthers projects
+## AnOthers projects for webpage
 
 📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
   
